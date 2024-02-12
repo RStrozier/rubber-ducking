@@ -2,7 +2,9 @@ import React from 'react'
 
 const WelcomeBanner = () => {
   return (
-    <div>Welcome Banner</div>
+    <>
+    <img src="../assets/coding-duck.jpg" alt="Coding Duck" />
+    </>
   )
 }
 
