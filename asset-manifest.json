@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/rubber-ducking/static/css/main.31d6cfe0.css",
+    "main.js": "/rubber-ducking/static/js/main.de116871.js",
+    "index.html": "/rubber-ducking/index.html",
+    "main.de116871.js.map": "/rubber-ducking/static/js/main.de116871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.de116871.js"
+  ]
+}
