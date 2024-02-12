@@ -1,10 +1,11 @@
-import WelcomeBanner from "../components/WelcomeBanner"
+import CardContainer from "../components/CardContainer"
+import "../App.css";
 
 const Homepage = () => {
   return (
     <>
     <div>Home page</div>
-    <WelcomeBanner />
+    <CardContainer />
     </>
   )
 }
