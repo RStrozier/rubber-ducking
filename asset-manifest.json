@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rubber-ducking/static/css/main.38e00770.css",
-    "main.js": "/rubber-ducking/static/js/main.2281ecb6.js",
+    "main.js": "/rubber-ducking/static/js/main.88999d33.js",
     "index.html": "/rubber-ducking/index.html",
     "main.38e00770.css.map": "/rubber-ducking/static/css/main.38e00770.css.map",
-    "main.2281ecb6.js.map": "/rubber-ducking/static/js/main.2281ecb6.js.map"
+    "main.88999d33.js.map": "/rubber-ducking/static/js/main.88999d33.js.map"
   },
   "entrypoints": [
     "static/css/main.38e00770.css",
-    "static/js/main.2281ecb6.js"
+    "static/js/main.88999d33.js"
   ]
 }
