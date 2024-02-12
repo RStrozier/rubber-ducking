@@ -1,31 +1,27 @@
-import React from 'react'
-import '../App.css';
+import React from 'react';
+import Card from './Card';
 
 const CardContainer = () => {
   return (
-    <>
-    <div className="page-container">
-         <div className="card-container">
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is a card</div>
-            <div className="card">This is the last card</div>
-        </div>
+    <div className="card-container">
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is a card</Card>
+      <Card>This is the last card</Card>
     </div>
-    </>
-  )
+  );
 }
 
-export default CardContainer
+export default CardContainer;
